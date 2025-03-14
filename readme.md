@@ -1,6 +1,6 @@
 # Context and Goal
 
-This algorithm is designed to **optimize a sequential production line* *consisting of an undefined number of machines and 
+This algorithm is designed to **optimize a sequential production line** consisting of an undefined number of machines and 
 different product types. The main objective is to determine the **most efficient production sequence** that **minimizes production line downtime**.
 
 To achieve this, the algorithm integrates:
